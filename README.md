@@ -8,10 +8,12 @@ Para usar é simples!
 
 
 no ``config.json`` coloque isso:
-```{
+```
+{
 "token": "Bot Token",
 "prefix": "bot prefix"
-}```
+}
+```
 
 # Thanks!
 
