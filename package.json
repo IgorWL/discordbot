@@ -1,0 +1,36 @@
+{
+  "name": "ReverseBot",
+  "version": "0.1",
+  "description": "Um bot para discord",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorWL/discordbot"
+  },
+  "author": "IgorWL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgorWL/discordbot"
+  },
+  "homepage": "https://github.com/IgorWL/discordbot/#readme",
+  "dependencies": {
+    "akinator": "^1.0.1",
+    "discord.js": "^11.5.1",
+    "fs": "^0.0.2",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "node": "^13.8.0",
+    "node-opus": "^0.3.2",
+    "opusscript": "^0.0.7",
+    "quick.db": "^6.3.2",
+    "yt-search": "^1.1.2",
+    "ytdl-core": "^1.0.9"
+  }
+}
