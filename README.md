@@ -10,9 +10,13 @@ Para usar é simples!
 no ``config.json`` coloque isso:
 ```
 {
-"token": "Bot Token",
 "prefix": "bot prefix"
 }
+```
+
+Após isso crie um arquivo chamado: ``.env``:
+```
+TOKEN= Token do Bot
 ```
 
 # Thanks!
